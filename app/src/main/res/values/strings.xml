@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">emirim_Project11_2</string>
+    <string name="title1">조커</string>
+    <string name="title2">신과 함께</string>
+    <string name="title3">토이스토리4</string>
+    <string name="title4">겨울왕국2</string>
+    <string name="title5">극한직업</string>
+    <string name="title6">주먹왕 랄프2</string>
+    <string name="title7">걸캅스</string>
+    <string name="title8">라라랜드</string>
+    <string name="title9">주토피아</string>
+    <string name="title10">말레피센트</string>
 </resources>
